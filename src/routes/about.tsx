@@ -92,9 +92,9 @@ function About() {
             className="font-display font-semibold leading-none"
             style={{ fontSize: 'clamp(3.5rem, 10vw, 11rem)' }}
           >
-            Aria
+            Melina
             <br />
-            <em className="font-light">Voss</em>
+            <em className="font-light">Gardelinou</em>
           </h1>
         </div>
       </section>
