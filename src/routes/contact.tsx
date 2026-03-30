@@ -24,27 +24,27 @@ function BehanceIcon({ size = 18 }: { size?: number }) {
 const SOCIALS = [
   {
     label: 'Instagram',
-    href: 'https://instagram.com',
+    href: 'https://instagram.com/sketchesbymelina',
     Icon: Instagram,
-    handle: '@aria.voss',
+    handle: '@sketchesbymelina',
   },
   {
     label: 'Behance',
     href: 'https://behance.net',
     Icon: BehanceIcon,
-    handle: 'aria-voss',
+    handle: 'melina-gardelinou',
   },
   {
     label: 'Twitter / X',
-    href: 'https://twitter.com',
+    href: 'https://x.com',
     Icon: Twitter,
-    handle: '@ariavoss',
+    handle: '@melinagardelinou',
   },
   {
     label: 'LinkedIn',
     href: 'https://linkedin.com',
     Icon: Linkedin,
-    handle: 'aria-voss',
+    handle: 'melina-gardelinou',
   },
 ]
 
