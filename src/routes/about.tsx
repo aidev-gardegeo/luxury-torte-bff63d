@@ -29,7 +29,7 @@ const TIMELINE = [
   {
     year: '2018',
     title: 'The Beginning',
-    body: 'Picked up a secondhand film camera at a Berlin flea market. Shot an entire roll without knowing how to load it properly. The resulting double exposures changed everything.',
+    body: 'Picked up a secondhand film camera at an Athens flea market. Shot an entire roll without knowing how to load it properly. The resulting double exposures changed everything.',
   },
   {
     year: '2019',
