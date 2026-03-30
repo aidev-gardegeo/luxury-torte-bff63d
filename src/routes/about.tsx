@@ -121,13 +121,13 @@ function About() {
               "I make work about the moments we can almost remember."
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm a visual artist and digital creator based in Berlin, working across photography,
+              I'm a visual artist and digital creator based in Athens, working across photography,
               illustration, and mixed media. My practice centres on the emotional residue left
               by places, relationships, and time — the feeling you get looking at a photo of
               somewhere you've never been but somehow know.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              My work has been shown in independent spaces across Berlin, Lisbon, and Vienna.
+              My work has been shown in independent spaces across Athens, Berlin, Lisbon, and Vienna.
               I've collaborated with record labels, independent publishers, and artists working
               across disciplines, creating visual language for projects that resist easy category.
             </p>
