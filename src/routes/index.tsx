@@ -205,7 +205,7 @@ function AboutTeaser() {
         <div className="reveal-left img-zoom rounded-sm overflow-hidden aspect-[4/5]">
           <img
             src="https://picsum.photos/seed/artistportrait/800/1000"
-            alt="Aria Voss"
+            alt="Melina Gardelinou"
             className="w-full h-full object-cover"
             loading="lazy"
           />
@@ -333,7 +333,7 @@ function Footer() {
     <footer className="py-10 px-6 border-t border-border">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <span className="font-display text-sm tracking-widest uppercase text-muted-foreground">
-          Aria Voss
+          Melina Gardelinou
         </span>
         <p className="text-xs text-muted-foreground/50">
           © {new Date().getFullYear()} All rights reserved.
