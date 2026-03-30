@@ -106,7 +106,7 @@ function About() {
             <div className="img-zoom rounded-sm overflow-hidden aspect-[3/4]">
               <img
                 src="https://picsum.photos/seed/artistportrait/800/1000"
-                alt="Aria Voss"
+                alt="Melina Gardelinou"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -115,7 +115,7 @@ function About() {
 
           <div className="reveal-right pt-4">
             <p className="text-xs tracking-[0.3em] uppercase text-accent mb-6">
-              Berlin, Germany
+              Athens, Greece
             </p>
             <p className="font-display text-3xl font-light leading-relaxed mb-8 italic text-muted-foreground">
               "I make work about the moments we can almost remember."
