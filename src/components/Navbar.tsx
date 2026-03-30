@@ -39,7 +39,7 @@ export default function Navbar() {
           to="/"
           className="font-display text-xl font-semibold tracking-widest uppercase hover:text-accent transition-colors duration-300"
         >
-          Aria Voss
+          Melina Gardelinou
         </Link>
 
         {/* Desktop nav */}
