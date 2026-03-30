@@ -71,7 +71,7 @@ function HeroSection() {
         {/* Main heading */}
         <h1
           className={`font-display font-bold leading-none transition-all duration-1000 delay-200 ${loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
-          style={{ fontSize: 'clamp(4rem, 14vw, 14rem)' }}
+          style={{ fontSize: 'clamp(2.5rem, 9vw, 11rem)' }}
         >
           <span className="block">MELINA</span>
           <span className="block gradient-text">GARDELINOU</span>
