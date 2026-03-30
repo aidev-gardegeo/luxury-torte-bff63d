@@ -73,8 +73,8 @@ function HeroSection() {
           className={`font-display font-bold leading-none transition-all duration-1000 delay-200 ${loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
           style={{ fontSize: 'clamp(4rem, 14vw, 14rem)' }}
         >
-          <span className="block">ARIA</span>
-          <span className="block gradient-text">VOSS</span>
+          <span className="block">MELINA</span>
+          <span className="block gradient-text">GARDELINOU</span>
         </h1>
 
         {/* Tagline */}
@@ -227,7 +227,7 @@ function AboutTeaser() {
             and emotion.
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            Based in Berlin, I'm a multidisciplinary visual artist working at the intersection of
+            Based in Athens, I'm a multidisciplinary visual artist working at the intersection of
             photography, digital illustration, and conceptual design. My work investigates themes
             of memory, belonging, and the beauty found in overlooked spaces.
           </p>
